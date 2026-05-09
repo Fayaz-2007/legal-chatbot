@@ -171,7 +171,7 @@ npm install groq-sdk pdf-parse multer
 ### 2. Environment Variables
 Add to `server/.env`:
 ```env
-GROQ_API_KEY=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
+GROQ_API_KEY="api-key"
 ```
 
 ### 3. Register Routes

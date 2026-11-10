@@ -125,14 +125,25 @@ Open your browser and go to: **http://localhost:5173**
 
 ## 🛠️ Technology Stack
 
-| Layer | Technologies |
-|-------|-------------|
-| **Frontend** | React 18, Vite, CSS3 |
-| **Backend** | Node.js, Express, Passport.js |
-| **RAG API** | Python, FastAPI, Uvicorn |
-| **AI/ML** | Google Gemini (embedding-001, gemini-pro) |
-| **Database** | PostgreSQL (Supabase), pgvector, MongoDB |
-| **Auth** | Local + Google OAuth 2.0 |
+**Frontend**
+
+![](https://skillicons.dev/icons?i=react,vite,css)
+
+**Backend**
+
+![](https://skillicons.dev/icons?i=nodejs,express)
+
+**RAG API**
+
+![](https://skillicons.dev/icons?i=py,fastapi)
+
+**Database**
+
+![](https://skillicons.dev/icons?i=postgres,mongodb)
+
+**Also using**
+
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white) ![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
